@@ -1,0 +1,1 @@
+lol my name is micah and i would like this to count the number of words words words in this document. Also wonder if it counts puctuation, like a comma as seperate , or if you need to actually seperate it.
